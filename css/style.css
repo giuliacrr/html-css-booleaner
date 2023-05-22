@@ -50,7 +50,59 @@ header {
   font-size: 10px;
   margin-top: 0px;
 }
-
+/*-----------------------------------*/
+/*Section 1 - Lorem ipsum + lorem list */
 .highlight {
   background-color: yellow;
+}
+/*-----------------------------------*/
+/*Section 3 - Lorem Ipsum table*/
+table {
+  table-layout: auto;
+  width: 100%;
+  border-spacing: 0;
+}
+
+thead {
+  text-align: left;
+}
+
+.ao {
+  width: 50%;
+}
+
+.title-row {
+  background-color: rgb(32, 169, 229);
+  color: white;
+}
+
+.blue-row {
+  background-color: rgb(177, 229, 242);
+}
+/*-----------------------------------*/
+/*Section 4 - Potrebbero interessarti*/
+
+.img1 {
+  background-image: url(../img/monitor.jpg);
+}
+
+.img2 {
+  background-image: url(../img/graph.jpg);
+}
+
+.size {
+  width: 312px;
+  height: 208px;
+}
+
+.see-this {
+  font-weight: bold;
+  font-size: 16px;
+  color: rgb(120, 120, 120);
+  margin-top: 15px;
+}
+
+.c4text {
+  color: #fff;
+  margin: 15px;
 }
