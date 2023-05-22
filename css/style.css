@@ -1,0 +1,56 @@
+body {
+  margin: 0;
+}
+
+main {
+  margin: 5px;
+}
+/*Header*/
+header {
+  height: 100px;
+  width: 100%;
+  background-image: url(../img/pattern.png);
+  background-size: 385px;
+  background-color: rgb(78, 160, 255);
+}
+
+.site-name {
+  height: 40px;
+  margin-top: 50px;
+}
+/*---------------------*/
+
+/*Section 1 - Tim Berners-Lee*/
+.maintitle {
+  font-size: 45px;
+  letter-spacing: -1px;
+  margin-bottom: 0px;
+}
+
+.writtenby {
+  font-weight: bold;
+  margin: 0px;
+}
+
+.color {
+  color: rgb(150, 150, 150);
+}
+
+.booleaner {
+  color: rgb(43, 173, 230);
+}
+
+.smaller {
+  margin-top: 0px;
+  margin-bottom: 20px;
+  font-size: 10px;
+}
+
+.pic-credits {
+  font-size: 10px;
+  margin-top: 0px;
+}
+
+.highlight {
+  background-color: yellow;
+}
